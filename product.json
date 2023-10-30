@@ -1,0 +1,19 @@
+[
+    {
+        "name":"iPhone 15 Pro",
+        "price":40400,
+        "description":"最新的Apple手機"
+    },
+    {
+        "name":"Airpods Pro 2 (Type-C)",
+        "price":7590,
+        "description":"最新的Apple耳機"
+    },
+    {
+        "name":"iPad Pro",
+        "price":27900,
+        "description":"最新的Apple平板"
+    }
+]
+
+
